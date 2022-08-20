@@ -1,0 +1,8 @@
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\bin\Debug\PatikaDevOdev.exe.config
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\bin\Debug\PatikaDevOdev.exe
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\bin\Debug\PatikaDevOdev.pdb
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\obj\Debug\PatikaDevOdev.csproj.AssemblyReference.cache
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\obj\Debug\PatikaDevOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\obj\Debug\PatikaDevOdev.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\obj\Debug\PatikaDevOdev.exe
+C:\Users\Nisa\source\repos\PatikaDevOdev\PatikaDevOdev\obj\Debug\PatikaDevOdev.pdb
