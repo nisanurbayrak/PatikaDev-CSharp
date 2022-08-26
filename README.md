@@ -1,4 +1,4 @@
 # AlgoritmaSorulari
 <p>
-Patika.Dev C# 101 eğitimindeki kodlarım bulunmaktadır.
+Patika.Dev C# 101 eğitimindeki not ve ödevlerim bulunmaktadır.
 <p>
