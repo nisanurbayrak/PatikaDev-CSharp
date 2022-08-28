@@ -5,11 +5,18 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaDevOdev", "PatikaDevOdev\PatikaDevOdev.csproj", "{F4A716C9-0288-43A1-9728-3DCB0BCEE891}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{3674041D-B4B1-4E9A-90AE-4F21BAA7643B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KoleksiyonNotlar", "KoleksiyonNotlar", "{3674041D-B4B1-4E9A-90AE-4F21BAA7643B}"
 	ProjectSection(SolutionItems) = preProject
 		ArrayKoleksiyon.cs = ArrayKoleksiyon.cs
+		Dictionary.cs = Dictionary.cs
 		GenericKoleksiyon.cs = GenericKoleksiyon.cs
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoleksiyonOdev", "KoleksiyonOdev\KoleksiyonOdev.csproj", "{9E1B2457-8663-42A5-BC55-4A4166324EFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{B87E090E-A285-479A-8D2B-93779774ED0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classlar", "notlarIcin\classlar.csproj", "{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +28,21 @@ Global
 		{F4A716C9-0288-43A1-9728-3DCB0BCEE891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4A716C9-0288-43A1-9728-3DCB0BCEE891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4A716C9-0288-43A1-9728-3DCB0BCEE891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1B2457-8663-42A5-BC55-4A4166324EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1B2457-8663-42A5-BC55-4A4166324EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1B2457-8663-42A5-BC55-4A4166324EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1B2457-8663-42A5-BC55-4A4166324EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3674041D-B4B1-4E9A-90AE-4F21BAA7643B} = {B87E090E-A285-479A-8D2B-93779774ED0E}
+		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A} = {B87E090E-A285-479A-8D2B-93779774ED0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC6CBBC1-118C-461F-88F8-5DEBFB67A496}

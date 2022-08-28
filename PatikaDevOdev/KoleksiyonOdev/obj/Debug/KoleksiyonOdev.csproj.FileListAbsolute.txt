@@ -1,0 +1,8 @@
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\bin\Debug\KoleksiyonOdev.exe.config
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\bin\Debug\KoleksiyonOdev.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\bin\Debug\KoleksiyonOdev.pdb
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\obj\Debug\KoleksiyonOdev.csproj.AssemblyReference.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\obj\Debug\KoleksiyonOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\obj\Debug\KoleksiyonOdev.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\obj\Debug\KoleksiyonOdev.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KoleksiyonOdev\obj\Debug\KoleksiyonOdev.pdb
