@@ -18,6 +18,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{B87E09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classlar", "notlarIcin\classlar.csproj", "{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projeler", "Projeler", "{4CC32BA1-1DB7-401C-8AA7-435A6B3D5634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberi", "TelefonRehberi\TelefonRehberi.csproj", "{FD95D2C0-98BD-4D5B-A36A-E7A4B35B1B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,10 @@ Global
 		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD95D2C0-98BD-4D5B-A36A-E7A4B35B1B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD95D2C0-98BD-4D5B-A36A-E7A4B35B1B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD95D2C0-98BD-4D5B-A36A-E7A4B35B1B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD95D2C0-98BD-4D5B-A36A-E7A4B35B1B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +51,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3674041D-B4B1-4E9A-90AE-4F21BAA7643B} = {B87E090E-A285-479A-8D2B-93779774ED0E}
 		{9DACBEE5-30D5-48CC-9436-7CB9A9190B5A} = {B87E090E-A285-479A-8D2B-93779774ED0E}
+		{FD95D2C0-98BD-4D5B-A36A-E7A4B35B1B4B} = {4CC32BA1-1DB7-401C-8AA7-435A6B3D5634}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC6CBBC1-118C-461F-88F8-5DEBFB67A496}
