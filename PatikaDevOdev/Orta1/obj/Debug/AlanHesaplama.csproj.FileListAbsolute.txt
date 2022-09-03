@@ -1,0 +1,8 @@
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\bin\Debug\Orta1.exe.config
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\bin\Debug\Orta1.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\bin\Debug\Orta1.pdb
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\obj\Debug\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\obj\Debug\AlanHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\obj\Debug\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\obj\Debug\Orta1.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\Orta1\obj\Debug\Orta1.pdb
