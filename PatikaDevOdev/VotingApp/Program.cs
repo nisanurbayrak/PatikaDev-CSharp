@@ -37,7 +37,6 @@ namespace VotingApp
             {
                 Console.WriteLine("Hatalı giriş.");
             }
-            Console.ReadLine();
         }
     }
 }
