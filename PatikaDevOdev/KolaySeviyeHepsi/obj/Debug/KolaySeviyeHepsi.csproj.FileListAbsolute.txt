@@ -1,0 +1,8 @@
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\bin\Debug\KolaySeviyeHepsi.exe.config
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\bin\Debug\KolaySeviyeHepsi.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\bin\Debug\KolaySeviyeHepsi.pdb
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\obj\Debug\KolaySeviyeHepsi.csproj.AssemblyReference.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\obj\Debug\KolaySeviyeHepsi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\obj\Debug\KolaySeviyeHepsi.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\obj\Debug\KolaySeviyeHepsi.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\KolaySeviyeHepsi\obj\Debug\KolaySeviyeHepsi.pdb

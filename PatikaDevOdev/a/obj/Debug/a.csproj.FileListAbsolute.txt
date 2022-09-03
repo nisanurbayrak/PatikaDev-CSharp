@@ -1,0 +1,8 @@
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\bin\Debug\a.exe.config
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\bin\Debug\a.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\bin\Debug\a.pdb
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\obj\Debug\a.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\obj\Debug\a.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\a\obj\Debug\a.pdb
