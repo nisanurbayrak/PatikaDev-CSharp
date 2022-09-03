@@ -1,0 +1,8 @@
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\bin\Debug\IntegerIkililerinToplamı.exe.config
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\bin\Debug\IntegerIkililerinToplamı.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\bin\Debug\IntegerIkililerinToplamı.pdb
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\obj\Debug\IntegerIkililerinToplamı.csproj.AssemblyReference.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\obj\Debug\IntegerIkililerinToplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\obj\Debug\IntegerIkililerinToplamı.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\obj\Debug\IntegerIkililerinToplamı.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\IntegerIkililerinToplamı\obj\Debug\IntegerIkililerinToplamı.pdb

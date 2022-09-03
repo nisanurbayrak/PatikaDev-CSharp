@@ -34,6 +34,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrtaSeviye", "OrtaSeviye", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesaplama", "Orta1\AlanHesaplama.csproj", "{B11BE218-0965-4276-BFF0-6D615D8A499D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerIkililerinToplamı", "IntegerIkililerinToplamı\IntegerIkililerinToplamı.csproj", "{1B8CB919-C96E-4D59-AAB9-B7396A15490A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{B11BE218-0965-4276-BFF0-6D615D8A499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B11BE218-0965-4276-BFF0-6D615D8A499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B11BE218-0965-4276-BFF0-6D615D8A499D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8CB919-C96E-4D59-AAB9-B7396A15490A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8CB919-C96E-4D59-AAB9-B7396A15490A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8CB919-C96E-4D59-AAB9-B7396A15490A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8CB919-C96E-4D59-AAB9-B7396A15490A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{57FB8A46-623F-4286-B73E-EFFC932BA379} = {6F7F7203-4E65-40D9-85A7-80B380DEDDFD}
 		{73B242C3-1417-4A4C-8114-04A23F45040E} = {6F7F7203-4E65-40D9-85A7-80B380DEDDFD}
 		{B11BE218-0965-4276-BFF0-6D615D8A499D} = {73B242C3-1417-4A4C-8114-04A23F45040E}
+		{1B8CB919-C96E-4D59-AAB9-B7396A15490A} = {73B242C3-1417-4A4C-8114-04A23F45040E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC6CBBC1-118C-461F-88F8-5DEBFB67A496}
