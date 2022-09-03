@@ -1,0 +1,8 @@
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\bin\Debug\MutlakKareToplamı.exe.config
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\bin\Debug\MutlakKareToplamı.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\bin\Debug\MutlakKareToplamı.pdb
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\obj\Debug\MutlakKareToplamı.csproj.AssemblyReference.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\obj\Debug\MutlakKareToplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\obj\Debug\MutlakKareToplamı.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\obj\Debug\MutlakKareToplamı.exe
+C:\Users\Nisa\Documents\GitHub\PatikaDevÖdev\PatikaDevOdev\MutlakKareToplamı\obj\Debug\MutlakKareToplamı.pdb
